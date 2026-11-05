@@ -1,0 +1,13 @@
+{
+  "appId": "com.tictoe.android",
+  "appName": "TictoeAndroid",
+  "webDir": "www",
+  "server": {
+    "url": "https://tic-toe-1-jfny.onrender.com",
+    "cleartext": false,
+    "androidScheme": "https",
+    "allowNavigation": [
+      "tic-toe-1-jfny.onrender.com"
+    ]
+  }
+}
