@@ -1,4 +1,4 @@
-# TictoeAndroid
+# ZeroCross
 
 Android app wrapper for the existing Tic-Tac-Toe / Zero Cross web app.
 
@@ -12,7 +12,7 @@ Download the generated APK from the workflow run's Artifacts section (`tictoeand
 
 ## App configuration
 
-- App name: TictoeAndroid
+- App name: ZeroCross
 - Application ID: `com.tictoe.android`
 - Live website: `https://tic-toe-1-jfny.onrender.com`
 
