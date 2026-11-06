@@ -1,6 +1,6 @@
 {
   "appId": "com.tictoe.android",
-  "appName": "TictoeAndroid",
+  "appName": "ZeroCross",
   "webDir": "www",
   "server": {
     "url": "https://tic-toe-1-jfny.onrender.com",
